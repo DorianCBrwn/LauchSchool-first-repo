@@ -1,0 +1,3 @@
+.DS_Store
+# Ignore all sqlite databases 
+db/*.sqlite3 
